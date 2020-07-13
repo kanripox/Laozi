@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
-  <description></description>
+  <description>Sources and commentaries for 老子 道德經 hapharzadly gathered as a case study for KanripoX.</description>
   <editions>
   <documentary>
 <edition id="CH8x3004_chant" format="txt" location="doc/CH8x3004_chant" type="mandoku" language="lzh">
