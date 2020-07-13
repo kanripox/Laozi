@@ -1,0 +1,27 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 63
+
+** 第六十三章
+<pb:CH1a0918_CHANT_063-1a>¶
+為無為，¶
+事無事，¶
+味無味。¶
+大小多少，¶
+報怨以德。¶
+圖難於其易也，¶
+為大於其細也。¶
+天下難事必作於易，¶
+天下大事必作於細。¶
+是以聖人終不為大。¶
+故能成其大。¶
+夫輕諾者必寡信，¶
+多易者必多難；¶
+是以聖人猶難之，¶
+故終於無難矣。¶
+

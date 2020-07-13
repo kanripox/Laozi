@@ -1,0 +1,16 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:07
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS other
+#+PROPERTY: JUAN 40
+
+** 第四十章
+<pb:CH1a0918_CHANT_040-1a>¶
+▸反▸〔也〕◂[fn::馬王堆漢墓帛書乙本老子頁37]者、道之動▸〔也〕◂[fn::馬王堆漢墓帛書乙本老子頁37]◂[fn::馬王堆漢墓帛書乙本老子頁37]，¶
+▸弱▸〔也〕◂[fn::馬王堆漢墓帛書甲本老子頁2]者、道之用▸〔也〕◂[fn::馬王堆漢墓帛書甲本老子頁2]◂[fn::馬王堆漢墓帛書甲本老子頁2]。¶
+天下▸萬◂[fn::之《馬王堆漢墓帛書乙本老子》頁37]物生於有，¶
+有生於無。¶
+

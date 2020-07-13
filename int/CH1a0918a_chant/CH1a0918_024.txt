@@ -1,0 +1,22 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 24
+
+** 第二十四章
+<pb:CH1a0918_CHANT_024-1a>¶
+企者不立，¶
+跨者不行。¶
+自見者不明，¶
+自是者不彰，¶
+自伐者無功，¶
+自矜者不長。¶
+其在道也，¶
+曰「餘食、贅行」。¶
+物或惡之，¶
+故有道者弗處。¶
+

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="KX5c0073_HFL">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>道德真經注</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Published by @kanripo on GitHub.com</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>HFL</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+      <sourceDoc>
+<xi:include href='KX5c0073_000.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX5c0073_001.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX5c0073_002.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX5c0073_003.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+<xi:include href='KX5c0073_004.xml' xmlns:xi='http://www.w3.org/2001/XInclude'/>
+</sourceDoc>
+</TEI>

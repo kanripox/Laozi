@@ -1,0 +1,22 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:05
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 5
+
+** 第五章
+<pb:CH1a0918_CHANT_005-1a>¶
+天地不仁，¶
+以萬物為芻狗。¶
+聖人不仁，¶
+以百姓為芻狗。¶
+天地之間，¶
+其猶橐籥乎。¶
+虛而不屈，¶
+動而愈出。¶
+多言數窮，¶
+不如守中。¶
+

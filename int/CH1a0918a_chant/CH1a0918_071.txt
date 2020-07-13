@@ -1,0 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 71
+
+** 第七十一章
+<pb:CH1a0918_CHANT_071-1a>¶
+知不知、上矣，¶
+不知知、病矣。¶
+夫唯病病，¶
+是以不病。¶
+聖人之不病也，¶
+以其病病也，¶
+是以不病。¶
+

@@ -1,0 +1,34 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 25
+
+** 第二十五章
+<pb:CH1a0918_CHANT_025-1a>¶
+有物混成，¶
+先天地生。¶
+寂兮寥兮，¶
+獨立而不改，¶
+周行而不殆。¶
+可以為天下母。¶
+吾不知其名，¶
+字之曰道，¶
+吾強為之名曰大。¶
+大曰逝，¶
+逝曰遠，¶
+遠曰反。¶
+故道大，¶
+天大，¶
+地大，¶
+王亦大。¶
+域中有四大，¶
+而王居其一焉。¶
+人法地，¶
+地法天，¶
+天法道，¶
+道法自然。¶
+

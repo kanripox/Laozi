@@ -1,0 +1,28 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 65
+
+** 第六十五章
+<pb:CH1a0918_CHANT_065-1a>¶
+古之善為道者，¶
+非以明民，¶
+將以愚之也。¶
+民之難治也，¶
+以其智多也。¶
+故以智治邦，¶
+邦之賊也；¶
+不以智治邦，¶
+國之福也。¶
+恒知此兩者，¶
+亦稽式也。¶
+恒知稽式，¶
+是謂玄德。¶
+玄德深矣、遠矣，¶
+與物反矣。¶
+然後乃至大順。¶
+

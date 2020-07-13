@@ -1,0 +1,22 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 45
+
+** 第四十五章
+<pb:CH1a0918_CHANT_045-1a>¶
+大成若缺，¶
+其用不弊。¶
+大盈若沖，¶
+其用不窮。¶
+大直若屈，¶
+大巧若拙，¶
+大辯若訥。¶
+躁勝寒，¶
+靜勝熱，¶
+清靜可以為天下正。¶
+

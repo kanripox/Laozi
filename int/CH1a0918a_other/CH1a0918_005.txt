@@ -1,0 +1,22 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:07
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS other
+#+PROPERTY: JUAN 5
+
+** 第五章
+<pb:CH1a0918_CHANT_005-1a>¶
+天地不仁，¶
+以萬物為芻狗。¶
+聖人不仁，¶
+以百姓為芻狗。¶
+天地之間，¶
+其猶橐籥▸乎◂[fn::與《馬王堆漢墓帛書甲本老子》頁20]。¶
+虛而不▸屈◂[fn::ａ．掘ｂ．詘]，¶
+動而愈出。¶
+多▸言◂[fn::聞《馬王堆漢墓帛書甲本老子》頁20]數窮，¶
+不如▸守中◂[fn::守於中《馬王堆漢墓帛書甲本老子》頁20]。¶
+

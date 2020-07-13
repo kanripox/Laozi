@@ -1,0 +1,23 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:07
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS other
+#+PROPERTY: JUAN 11
+
+** 第十一章
+<pb:CH1a0918_CHANT_011-1a>¶
+三十輻共一轂，¶
+當其無，¶
+有車之用。¶
+▸埏◂[fn::挻〈馬敘倫云：《說文》無「埏」字，當依王本作「挻」，而借為「摶」。〉]埴以為器，¶
+當其無，¶
+有▸器◂[fn::埴器《馬王堆漢墓帛書甲本老子》頁21]之用。¶
+鑿戶牖以為室，¶
+當其無，¶
+有室之▸用◂[fn::《馬王堆漢墓帛書甲本老子》頁21此下有「也」字。]。¶
+故有之以為利，¶
+無之以為用。¶
+

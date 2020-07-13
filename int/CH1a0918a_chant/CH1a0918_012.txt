@@ -1,0 +1,22 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 12
+
+** 第十二章
+<pb:CH1a0918_CHANT_012-1a>¶
+五色令人目盲，¶
+五音令人耳聾，¶
+五味令人口爽。¶
+馳騁田獵，¶
+令人心發狂；¶
+難得之貨，¶
+令人行妨。¶
+是以聖人之治也，¶
+為腹不為目。¶
+故去彼取此。¶
+

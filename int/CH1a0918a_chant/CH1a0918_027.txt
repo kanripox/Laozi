@@ -1,0 +1,30 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 27
+
+** 第二十七章
+<pb:CH1a0918_CHANT_027-1a>¶
+善行者無轍迹，¶
+善言者無瑕讁，¶
+善數者不用籌策，¶
+善閉者無關楗而不可啟，¶
+善結者無繩約而不可解。¶
+是以聖人恒善救人，¶
+故無棄人；¶
+常善救物，¶
+故無棄物；¶
+是謂襲明。¶
+故善人者，¶
+不善人之師；¶
+不善人者，¶
+善人之資。¶
+不貴其師，¶
+不愛其資；¶
+雖智大迷，¶
+是謂要妙。¶
+

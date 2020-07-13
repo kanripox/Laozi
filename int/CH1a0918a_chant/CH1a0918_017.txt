@@ -1,0 +1,21 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 17
+
+** 第十七章
+<pb:CH1a0918_CHANT_017-1a>¶
+太上下知有之；¶
+其次親而譽之；¶
+其次畏之，¶
+其次侮之；¶
+信不足，¶
+焉有不信？¶
+悠兮其貴言。¶
+功成事遂，¶
+而百姓皆謂我自然。¶
+

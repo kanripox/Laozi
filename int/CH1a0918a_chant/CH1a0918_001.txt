@@ -1,0 +1,26 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:05
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 1
+
+** 第一章
+<pb:CH1a0918_CHANT_001-1a>¶
+道可道，¶
+非恒道。¶
+名可名，¶
+非恒名。¶
+無名、天地之始，¶
+有名、萬物之母，¶
+故恒無欲，¶
+以觀其妙。¶
+恒有欲，¶
+以觀其徼。¶
+此兩者同出而異名。¶
+同謂之玄。¶
+玄之又玄，¶
+眾妙之門。¶
+

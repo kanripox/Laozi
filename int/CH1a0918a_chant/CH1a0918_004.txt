@@ -1,0 +1,21 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:05
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 4
+
+** 第四章
+<pb:CH1a0918_CHANT_004-1a>¶
+道沖而用之或不盈。¶
+淵兮似萬物之宗。¶
+挫其銳，¶
+解其紛；¶
+和其光，¶
+同其塵。¶
+湛兮似或存，¶
+吾不知誰之子。¶
+象帝之先。¶
+

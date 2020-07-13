@@ -1,0 +1,23 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 29
+
+** 第二十九章
+<pb:CH1a0918_CHANT_029-1a>¶
+將欲取天下而為之，¶
+吾見其弗得已。¶
+天下、神器，¶
+不可為也。¶
+為者敗之，¶
+執者失之。¶
+故物或行或隨，¶
+或歔或吹，¶
+或強或羸，¶
+或挫或隳。¶
+是以聖人去甚、去奢、去泰。¶
+

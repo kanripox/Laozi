@@ -1,0 +1,23 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 11
+
+** 第十一章
+<pb:CH1a0918_CHANT_011-1a>¶
+三十輻共一轂，¶
+當其無，¶
+有車之用。¶
+埏埴以為器，¶
+當其無，¶
+有器之用。¶
+鑿戶牖以為室，¶
+當其無，¶
+有室之用。¶
+故有之以為利，¶
+無之以為用。¶
+

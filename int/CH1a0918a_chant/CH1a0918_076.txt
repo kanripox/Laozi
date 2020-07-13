@@ -1,0 +1,23 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 76
+
+** 第七十六章
+<pb:CH1a0918_CHANT_076-1a>¶
+人之生也柔弱，¶
+其死也堅強。¶
+萬物草木之生也柔脆，¶
+其死也枯槁。¶
+故曰：¶
+堅強者、死之徒也，¶
+柔弱者、生之徒也，¶
+是以兵強則不勝，¶
+木強則共。¶
+強大處下，¶
+柔弱處上。¶
+

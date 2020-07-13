@@ -1,0 +1,23 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 75
+
+** 第七十五章
+<pb:CH1a0918_CHANT_075-1a>¶
+民之飢也，¶
+以其上食稅之多也，¶
+是以飢。¶
+民之難治也，¶
+以其上之有以為也，¶
+是以難治。¶
+民之輕死，¶
+以其求生生之厚也。¶
+是以輕死。¶
+夫唯無以生為者，¶
+是賢於貴生。¶
+

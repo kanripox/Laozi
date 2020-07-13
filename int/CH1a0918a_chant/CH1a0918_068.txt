@@ -1,0 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 68
+
+** 第六十八章
+<pb:CH1a0918_CHANT_068-1a>¶
+善為士者不武，¶
+善戰者不怒，¶
+善勝敵者弗與，¶
+善用人者為之下，¶
+是謂不爭之德，¶
+是謂用人之力，¶
+是謂配天古之極也。¶
+

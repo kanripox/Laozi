@@ -1,0 +1,20 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 48
+
+** 第四十八章
+<pb:CH1a0918_CHANT_048-1a>¶
+為學日益，¶
+為道日損，¶
+損之又損，¶
+以至於無為。¶
+無為而無不為。¶
+取天下也恒以無事，¶
+及其有事也，¶
+又不足以取天下矣。¶
+

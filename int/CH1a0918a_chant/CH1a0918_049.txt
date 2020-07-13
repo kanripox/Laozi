@@ -1,0 +1,24 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 49
+
+** 第四十九章
+<pb:CH1a0918_CHANT_049-1a>¶
+聖人無恒心，¶
+以百姓之心為心。¶
+善者吾善之，¶
+不善者吾亦善之，¶
+德善。¶
+信者吾信之，¶
+不信者吾亦信之，¶
+德信。¶
+聖人之在天下也，¶
+歙歙焉為天下渾其心。¶
+百姓皆注其耳目焉，¶
+聖人皆孩之。¶
+

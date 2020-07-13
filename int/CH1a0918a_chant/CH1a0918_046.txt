@@ -1,0 +1,21 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 46
+
+** 第四十六章
+<pb:CH1a0918_CHANT_046-1a>¶
+天下有道，¶
+卻走馬以糞；¶
+天下無道，¶
+戎馬生於郊。¶
+罪莫大于可欲，¶
+禍莫大於不知足，¶
+咎莫大於欲得。¶
+故知足之足，¶
+恒足矣。¶
+

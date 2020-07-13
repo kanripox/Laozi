@@ -1,0 +1,66 @@
+<surfaceGrp xmlns='http://www.tei-c.org/ns/1.0' xml:id='KX5c0065_SBCK_002'>
+<surface type='dummy'></surface>
+<surface xml:id='KX5c0065_SBCK_002-1a-z'>
+<pb ed='SBCK' n='002-1a' xml:id='KX5c0065_SBCK_002-1a'/><line xml:id='KX5c0065_SBCK_002-1a.01'>老子篇目</line>
+<line xml:id='KX5c0065_SBCK_002-1a.02'>　道經</line>
+<line xml:id='KX5c0065_SBCK_002-1a.03'>　河上公章句第一</line>
+<line xml:id='KX5c0065_SBCK_002-1a.04'>　　體道第一　養身第二</line>
+<line xml:id='KX5c0065_SBCK_002-1a.05'>　　安民第三　無源第四</line>
+<line xml:id='KX5c0065_SBCK_002-1a.06'>　　虛用第五　成象第六</line>
+<line xml:id='KX5c0065_SBCK_002-1a.07'>　　韜光第七　易性第八</line>
+<line xml:id='KX5c0065_SBCK_002-1a.08'>　　運夷第九　能為第十</line>
+<line xml:id='KX5c0065_SBCK_002-1a.09'>　　無用第十一　檢欲第十二</line>
+<line xml:id='KX5c0065_SBCK_002-1a.10'>　　猒恥第十三　賛玄第十四</line>
+</surface>
+<surface xml:id='KX5c0065_SBCK_002-1b-z'>
+<pb ed='SBCK' n='002-1b' xml:id='KX5c0065_SBCK_002-1b'/><line xml:id='KX5c0065_SBCK_002-1b.01'>　　顯德第十五　歸根第十六</line>
+<line xml:id='KX5c0065_SBCK_002-1b.02'>　河上公章句第二</line>
+<line xml:id='KX5c0065_SBCK_002-1b.03'>　　淳風第十七　俗薄第十八</line>
+<line xml:id='KX5c0065_SBCK_002-1b.04'>　　還淳第十九　異俗第二十</line>
+<line xml:id='KX5c0065_SBCK_002-1b.05'>　　虛心第二十一　益謙第二十二</line>
+<line xml:id='KX5c0065_SBCK_002-1b.06'>　　虛無第二十三　苦恩第二十四</line>
+<line xml:id='KX5c0065_SBCK_002-1b.07'>　　象元第二十五　重德第二十六</line>
+<line xml:id='KX5c0065_SBCK_002-1b.08'>　　巧用第二十七　反朴第二十八</line>
+<line xml:id='KX5c0065_SBCK_002-1b.09'>　　無為第二十九　儉武第三十</line>
+<line xml:id='KX5c0065_SBCK_002-1b.10'>　　偃武第三十一　聖德第三十二</line>
+</surface>
+<surface xml:id='KX5c0065_SBCK_002-2a-z'>
+<pb ed='SBCK' n='002-2a' xml:id='KX5c0065_SBCK_002-2a'/><line xml:id='KX5c0065_SBCK_002-2a.01'>　　辯德第三十三　任成第三十四</line>
+<line xml:id='KX5c0065_SBCK_002-2a.02'>　　仁徳第三十五　微明第三十六</line>
+<line xml:id='KX5c0065_SBCK_002-2a.03'>　　為政第三十七</line>
+<line xml:id='KX5c0065_SBCK_002-2a.04'>　徳經</line>
+<line xml:id='KX5c0065_SBCK_002-2a.05'>　河上公章句第三</line>
+<line xml:id='KX5c0065_SBCK_002-2a.06'>　　論徳第三十八　法本第三十九</line>
+<line xml:id='KX5c0065_SBCK_002-2a.07'>　　去用第四十　同異第四十一</line>
+<line xml:id='KX5c0065_SBCK_002-2a.08'>　　道化第四十二　徧用第四十三</line>
+<line xml:id='KX5c0065_SBCK_002-2a.09'>　　立戒第四十四　洪徳第四十五</line>
+<line xml:id='KX5c0065_SBCK_002-2a.10'>　　儉欲第四十六　鑒逺第四十七</line>
+</surface>
+<surface xml:id='KX5c0065_SBCK_002-2b-z'>
+<pb ed='SBCK' n='002-2b' xml:id='KX5c0065_SBCK_002-2b'/><line xml:id='KX5c0065_SBCK_002-2b.01'>　　忘知第四十八　任徳第四十九</line>
+<line xml:id='KX5c0065_SBCK_002-2b.02'>　　貴生第五十　養徳第五十一</line>
+<line xml:id='KX5c0065_SBCK_002-2b.03'>　　歸元第五十二　益證第五十三</line>
+<line xml:id='KX5c0065_SBCK_002-2b.04'>　　修觀第五十四　玄符第五十五</line>
+<line xml:id='KX5c0065_SBCK_002-2b.05'>　　玄徳第五十六　淳風第五十七</line>
+<line xml:id='KX5c0065_SBCK_002-2b.06'>　　順化第五十八　守道第五十九</line>
+<line xml:id='KX5c0065_SBCK_002-2b.07'>　河上公章句第四</line>
+<line xml:id='KX5c0065_SBCK_002-2b.08'>　　居位第六十　謙徳第六十一</line>
+<line xml:id='KX5c0065_SBCK_002-2b.09'>　　為道第六十二　恩始第六十三</line>
+<line xml:id='KX5c0065_SBCK_002-2b.10'>　　守微第六十四　淳徳第六十五</line>
+</surface>
+<surface xml:id='KX5c0065_SBCK_002-3a-z'>
+<pb ed='SBCK' n='002-3a' xml:id='KX5c0065_SBCK_002-3a'/><line xml:id='KX5c0065_SBCK_002-3a.01'>　　後已第六十六　三寳第六十七</line>
+<line xml:id='KX5c0065_SBCK_002-3a.02'>　　配天第六十八　玄用第六十九</line>
+<line xml:id='KX5c0065_SBCK_002-3a.03'>　　知難第七十　知病第七十一</line>
+<line xml:id='KX5c0065_SBCK_002-3a.04'>　　愛己第七十二　任為第七十三</line>
+<line xml:id='KX5c0065_SBCK_002-3a.05'>　　制惑第七十四　貪損第七十五</line>
+<line xml:id='KX5c0065_SBCK_002-3a.06'>　　戒強第七十六　天道第七十七</line>
+<line xml:id='KX5c0065_SBCK_002-3a.07'>　　任信第七十八　任契第七十九</line>
+<line xml:id='KX5c0065_SBCK_002-3a.08'>　　獨立第八十　顯質第八十一</line>
+</surface>
+<surface xml:id='KX5c0065_SBCK_002-3b-z'>
+<pb ed='SBCK' n='002-3b' xml:id='KX5c0065_SBCK_002-3b'/><line xml:id='KX5c0065_SBCK_002-3b.02'>老子篇目終</line>
+<line xml:id='KX5c0065_SBCK_002-3b.03'>　　　　　　建　安　虞　氏</line>
+<line xml:id='KX5c0065_SBCK_002-3b.04'>　　　　　　刋　于　家　塾</line>
+</surface>
+</surfaceGrp>

@@ -1,0 +1,16 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 40
+
+** 第四十章
+<pb:CH1a0918_CHANT_040-1a>¶
+反也者、道之動也，¶
+弱也者、道之用也。¶
+天下萬物生於有，¶
+有生於無。¶
+

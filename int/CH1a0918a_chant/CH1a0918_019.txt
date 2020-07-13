@@ -1,0 +1,23 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 19
+
+** 第十九章
+<pb:CH1a0918_CHANT_019-1a>¶
+絕聖棄智，¶
+民利百倍；¶
+絕仁棄義，¶
+民復孝慈；¶
+絕巧棄利，¶
+盜賊無有。¶
+此三者，¶
+以為文不足；¶
+故令之有所屬：¶
+見素抱樸，¶
+少私寡欲。¶
+

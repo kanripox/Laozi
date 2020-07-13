@@ -1,0 +1,27 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 42
+
+** 第四十二章
+<pb:CH1a0918_CHANT_042-1a>¶
+道生一，¶
+一生二，¶
+二生三，¶
+三生萬物。¶
+萬物負陰而抱陽，¶
+沖氣以為和。¶
+人之所惡，¶
+唯孤寡不穀，¶
+而王公以為稱。¶
+故物或損之而益，¶
+或益之而損。¶
+故人之所教，¶
+我亦教之。¶
+故強梁者不得其死，¶
+吾將以為教父。¶
+

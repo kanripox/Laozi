@@ -1,0 +1,20 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:07
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS other
+#+PROPERTY: JUAN 44
+
+** 第四十四章
+<pb:CH1a0918_CHANT_044-1a>¶
+名與身孰親？¶
+身與貨孰多？¶
+得與亡孰病？¶
+是故甚愛必大費，¶
+多藏必厚亡。¶
+▸▸〔故〕◂[fn::馬王堆漢墓帛書甲本老子頁3]知足不辱◂[fn::馬王堆漢墓帛書甲本老子頁3]，¶
+知止不殆，¶
+可以長久。¶
+

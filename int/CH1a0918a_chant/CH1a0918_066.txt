@@ -1,0 +1,24 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 66
+
+** 第六十六章
+<pb:CH1a0918_CHANT_066-1a>¶
+江海所以能為百谷王者，¶
+以其善下之，¶
+故能為百谷王。¶
+是以聖人之欲上民也，¶
+必以其言下之；¶
+其欲先民也，¶
+必以其身後之。¶
+是以聖人處上而民弗重也，¶
+處前而民弗害也，¶
+是以天下樂推而弗厭也。¶
+以其不爭，¶
+故天下莫能與之爭。¶
+

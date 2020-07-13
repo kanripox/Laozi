@@ -1,0 +1,21 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 9
+
+** 第九章
+<pb:CH1a0918_CHANT_009-1a>¶
+持而盈之，¶
+不如其已。¶
+揣而銳之，¶
+不可長保。¶
+金玉盈堂，¶
+莫之能守。¶
+富貴而驕，¶
+自遺其咎。¶
+功遂身退、天之道。¶
+

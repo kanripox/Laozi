@@ -1,0 +1,18 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 6
+
+** 第六章
+<pb:CH1a0918_CHANT_006-1a>¶
+谷神不死，¶
+是謂玄牝。¶
+玄牝之門，¶
+是謂天地根。¶
+綿綿若存，¶
+用之不勤。¶
+

@@ -1,0 +1,23 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 35
+
+** 第三十五章
+<pb:CH1a0918_CHANT_035-1a>¶
+執大象，¶
+天下往；¶
+往而不害，¶
+安平大。¶
+樂與餌，¶
+過客止。¶
+故道之出口也，¶
+淡乎其無味，¶
+視之、不足見，¶
+聽之、不足聞，¶
+用之、不足既。¶
+

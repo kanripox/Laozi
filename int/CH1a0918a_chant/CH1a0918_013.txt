@@ -1,0 +1,27 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 13
+
+** 第十三章
+<pb:CH1a0918_CHANT_013-1a>¶
+寵辱若驚，¶
+貴大患若身。¶
+何謂寵辱若驚？¶
+寵、為下得之若驚，¶
+失之若驚。¶
+是謂寵辱若驚。¶
+何謂貴大患若身？¶
+吾所以有大患者，¶
+為吾有身也。¶
+及吾無身，¶
+吾有何患？¶
+故貴以身為天下，¶
+若可寄天下。¶
+愛以身為天下，¶
+若可託天下。¶
+

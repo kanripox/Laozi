@@ -1,0 +1,19 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 43
+
+** 第四十三章
+<pb:CH1a0918_CHANT_043-1a>¶
+天下之至柔，¶
+馳騁於天下之至堅。¶
+無有入於無間。¶
+吾是以知無為之有益也。¶
+不言之教，¶
+無為之益，¶
+天下希能及之矣。¶
+

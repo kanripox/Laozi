@@ -1,0 +1,24 @@
+# -*- mode: mandoku-view -*-
+#+TITLE: 老子
+#+DATE: 2016-05-31 17:08:06
+#+PROPERTY: CH_ID CH1a0918
+#+PROPERTY: CAT 6,道家
+#+PROPERTY: BASEEDITION CHANT
+#+PROPERTY: WITNESS chant
+#+PROPERTY: JUAN 59
+
+** 第五十九章
+<pb:CH1a0918_CHANT_059-1a>¶
+治人事天，¶
+莫若嗇。¶
+夫唯嗇，¶
+是謂早服。¶
+早服謂之重積德。¶
+重積德則無不克，¶
+無不克則莫知其極。¶
+莫知其極，¶
+可以有國。¶
+有國之母，¶
+可以長久。¶
+是謂深根固柢、長生久視之道也。¶
+
