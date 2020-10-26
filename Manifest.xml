@@ -6,10 +6,8 @@
 			type="documentary" language="lzh">
 			<description>老子甲本</description>
 			<divisions>
-				<div label="德經" start="0" end="3034"/>
-			</divisions>
-			<divisions>
-				<div label="道經" start="3035" end="5432"/>
+				<div sequence="2" label="德經" start="0" end="3034"/>
+				<div sequence="1" label="道經" start="3035" end="5432"/>
 			</divisions>
 		</edition>
 		<edition id="CH8x3005_chant" format="txt/mandoku" location="doc/CH8x3005_chant"
@@ -26,41 +24,52 @@
 		</edition>
 		<edition id="KX5c0045_HFL" format="xml/TEI" location="doc/KX5c0045_HFL" type="documentary"
 			language="lzh">
-			<description>道德真經</description>
+			<description>道德真經(正文)</description>
 		</edition>
 		<edition id="KX5c0045_ZTDZ" format="xml/TEI" location="doc/KX5c0045_ZTDZ" type="documentary"
 			language="lzh">
-			<description>道德真經</description>
+			<description>道德真經(正文)</description>
 		</edition>
 		<edition id="KX5c0046_HFL" format="xml/TEI" location="doc/KX5c0046_HFL" type="documentary"
 			language="lzh">
-			<description>道德經古本篇</description>
+			<description>道德經古本篇(傅奕校定)</description>
 		</edition>
 		<edition id="KX5c0046_ZTDZ" format="xml/TEI" location="doc/KX5c0046_ZTDZ" type="documentary"
 			language="lzh">
-			<description>道德經古本篇</description>
+			<description>道德經古本篇(傅奕校定)</description>
 		</edition>
 		<edition id="KX5c0065_HFL" format="xml/TEI" location="doc/KX5c0065_HFL" type="documentary"
 			language="lzh">
-			<description>道德真經注</description>
+			<description>道德真經(河上公注)</description>
 		</edition>
 		<edition id="KX5c0065_SBCK" format="xml/TEI" location="doc/KX5c0065_SBCK" type="documentary"
 			language="lzh">
-			<description>老子道德經</description>
+			<description>老子道德經(河上公注)</description>
 		</edition>
 		<edition id="KX5c0065_ZTDZ" format="xml/TEI" location="doc/KX5c0065_ZTDZ" type="documentary"
 			language="lzh">
-			<description>道德真經注</description>
+			<description>道德真經(河上公注)</description>
+		</edition>
+		<edition id="CH1a0918b_chant" format="txt/mandoku" location="int/CH1a0918b_chant"
+			type="interpretative" language="lzh">
+			<description>老子(河上公注)</description>
+		</edition>
+		<edition id="CH1a0918b_other" format="txt/mandoku" location="int/CH1a0918b_other"
+			type="interpretative" language="lzh">
+			<description>老子(河上公注)</description>
 		</edition>
 		<edition id="KX5c0073_HFL" format="xml/TEI" location="doc/KX5c0073_HFL" type="documentary"
 			language="lzh">
-			<description>道德真經注</description>
+			<description>道德真經(王弼注)</description>
 		</edition>
 		<edition id="KX5c0073_ZTDZ" format="xml/TEI" location="doc/KX5c0073_ZTDZ" type="documentary"
 			language="lzh">
-			<description>道德真經注</description>
+			<description>道德真經(王弼注)</description>
 		</edition>
-
+		<edition id="KR5c0073_tls" format="xml/TEI" location="int/KR5c0073_tls"
+			type="interpretative" language="lzh">
+			<description>道德真經註-魏-王弼</description>
+		</edition>
 		<edition id="CH1a0918a_chant" format="txt/mandoku" location="int/CH1a0918a_chant"
 			type="interpretative" language="lzh">
 			<description>老子</description>
@@ -69,21 +78,9 @@
 			type="interpretative" language="lzh">
 			<description>老子</description>
 		</edition>
-		<edition id="CH1a0918b_chant" format="txt/mandoku" location="int/CH1a0918b_chant"
-			type="interpretative" language="lzh">
-			<description>老子</description>
-		</edition>
-		<edition id="CH1a0918b_other" format="txt/mandoku" location="int/CH1a0918b_other"
-			type="interpretative" language="lzh">
-			<description>老子</description>
-		</edition>
 		<edition id="KR5c0057_tls" format="xml/TEI" location="int/KR5c0057_tls"
 			type="interpretative" language="lzh">
-			<description>老子</description>
-		</edition>
-		<edition id="KR5c0073_tls" format="xml/TEI" location="int/KR5c0073_tls"
-			type="interpretative" language="lzh">
-			<description>道德真經註-魏-王弼</description>
+			<description>老子(TLS)</description>
 		</edition>
 		<edition id="KX5c0045_master" format="xml/TEI" location="int/KX5c0045_master"
 			type="interpretative" language="lzh">
