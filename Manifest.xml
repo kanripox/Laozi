@@ -21,6 +21,10 @@
 		<edition id="CH8x3007_chant" format="txt/mandoku" location="doc/CH8x3007_chant"
 			type="documentary" language="lzh">
 			<description>老子乙本</description>
+			<divisions>
+				<div sequence="2" label="德經" start="0" end="3040"/>
+				<div sequence="1" label="道經" start="3041" end="5460"/>
+			</divisions>
 		</edition>
 		<edition id="KX5c0045_HFL" format="xml/TEI" location="doc/KX5c0045_HFL" type="documentary"
 			language="lzh">

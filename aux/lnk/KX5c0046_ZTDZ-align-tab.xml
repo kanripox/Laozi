@@ -7,7 +7,7 @@
 <ref ed='CH8x3004_chant' corresp='#noid.0' tp='3045' tcount='2' diff='6'/>
 <ref ed='CH8x3005_chant' corresp='#noid.0' tp='-1' tcount='8'/>
 <ref ed='CH8x3006_chant' corresp='#noid.0' tp='-1' tcount='8'/>
-<ref ed='CH8x3007_chant' corresp='#noid.0' tp='-1' tcount='4' diff='4'/>
+<ref ed='CH8x3007_chant' corresp='#noid.0' tp='3042' tcount='2' diff='6'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_001-1a.3-h' tp='-1' tcount='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='0' diff='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001a.01' tp='-1' tcount='10' diff='2'/>
@@ -21,6 +21,7 @@
 </seg>
 <seg id='i' tp='-1' tcount='0'>
 <ref ed='CH8x3004_chant' corresp='#noid.0' tp='3034' tcount='11' diff='11'/>
+<ref ed='CH8x3007_chant' corresp='#noid.0' tp='3040' tcount='2' diff='2'/>
 </seg>
 <seg id='KX5c0046_SJB_000-110482a.02' tp='7' tcount='8'>
 <ref ed='CH1a0918a_chant' corresp='#CH1a0918_CHANT_001-1a.4' tp='7' tcount='8'/>
@@ -50,7 +51,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.5' tp='3047' tcount='19' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-4a.38' tp='1736' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-1a.3' tp='1' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.5' tp='3044' tcount='19' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_001-1a.3' tp='2' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg1-1' tp='-1' tcount='41' diff='24'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001a.03' tp='12' tcount='17'/>
@@ -70,7 +71,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.17' tp='3067' tcount='25' diff='8'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-9a.89' tp='2913' tcount='291' diff='274'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-1a.18' tp='34' tcount='8' diff='9'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.21' tp='3064' tcount='25' diff='8'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_001-1a.8' tp='19' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg2-2' tp='40' tcount='117' diff='100'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001a.04' tp='29' tcount='16' diff='1'/>
@@ -90,7 +91,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.30' tp='3088' tcount='19' diff='3'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-15a.95' tp='4671' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='9' diff='8'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.32' tp='3085' tcount='17' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_001-1a.10' tp='36' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg4-2' tp='157' tcount='53' diff='36'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001a.05' tp='45' tcount='17'/>
@@ -110,7 +111,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.40' tp='3106' tcount='8'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-15a.104' tp='4688' tcount='8'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-1a.95' tp='177' tcount='8'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='8'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.40' tp='3100' tcount='8'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_001-1a.13' tp='53' tcount='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg5-3' tp='210' tcount='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001a.06' tp='62' tcount='8'/>
@@ -150,7 +151,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.44' tp='3111' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.21' tp='4805' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-1a.99' tp='193' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.44' tp='3108' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_002-1a.3' tp='64' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg6-1' tp='338' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001a.08' tp='75' tcount='17'/>
@@ -170,7 +171,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.52' tp='3126' tcount='19' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.28' tp='4822' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-1a.111' tp='210' tcount='567' diff='550'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.53' tp='3124' tcount='19' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_002-1a.6' tp='81' tcount='15' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg6-4' tp='355' tcount='15' diff='2'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001a.09' tp='92' tcount='17'/>
@@ -190,7 +191,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.58' tp='3141' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.28' tp='4822' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-5a.223' tp='2558' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.58' tp='3139' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_002-1a.9' tp='95' tcount='13' diff='4'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg6-7' tp='369' tcount='13' diff='4'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001a.10' tp='109' tcount='17'/>
@@ -210,7 +211,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.66' tp='3161' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.34' tp='4839' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-8a.78' tp='4166' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.66' tp='3159' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_002-1a.13' tp='109' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not7-1' tp='383' tcount='86' diff='69'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001b.01' tp='126' tcount='17'/>
@@ -230,7 +231,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.76' tp='3180' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.36' tp='4846' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-8a.104' tp='4214' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.72' tp='3177' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_002-1a.15' tp='126' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg8-2' tp='469' tcount='25' diff='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001b.02' tp='143' tcount='17'/>
@@ -250,7 +251,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.83' tp='3196' tcount='8'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.46' tp='4863' tcount='8'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-8a.121' tp='4261' tcount='8'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='8'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.79' tp='3192' tcount='8'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_002-1a.19' tp='144' tcount='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg10-1' tp='507' tcount='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001b.03' tp='159' tcount='8'/>
@@ -270,7 +271,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.87' tp='3203' tcount='8'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.48' tp='4871' tcount='8'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-8a.125' tp='4288' tcount='8'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='8'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.83' tp='3200' tcount='8'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_003-1a.3-h' tp='152' tcount='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not11-1' tp='515' tcount='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001b.04' tp='167' tcount='7' diff='1'/>
@@ -290,7 +291,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.95' tp='3211' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.48' tp='4879' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-8a.127' tp='4296' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.87' tp='3208' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_003-1a.3' tp='155' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg11-1' tp='525' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001b.05' tp='172' tcount='17'/>
@@ -310,7 +311,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.102' tp='3220' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.58' tp='4896' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-8a.137' tp='4313' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.91' tp='3217' tcount='15' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_003-1a.7' tp='172' tcount='15' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg11-5' tp='542' tcount='90' diff='74'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001b.06' tp='189' tcount='16' diff='1'/>
@@ -330,7 +331,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.114' tp='3236' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.62' tp='4913' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-9a.9' tp='4330' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.97' tp='3232' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_003-1a.10' tp='187' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg12-2' tp='632' tcount='48' diff='31'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001b.06' tp='204' tcount='17'/>
@@ -350,7 +351,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.125' tp='3253' tcount='17' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.72' tp='4930' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-9a.14' tp='4347' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.105' tp='3249' tcount='17' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_003-1a.14' tp='204' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg14-1' tp='680' tcount='21' diff='4'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001b.07' tp='221' tcount='18' diff='1'/>
@@ -370,7 +371,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.133' tp='3270' tcount='8'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.78' tp='4947' tcount='8'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-9a.20' tp='4364' tcount='8'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='8'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.113' tp='3266' tcount='8'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_004-1a.3-h' tp='222' tcount='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg16-1' tp='701' tcount='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001b.09' tp='239' tcount='8'/>
@@ -390,7 +391,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.139' tp='3278' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.80' tp='4955' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-9a.22' tp='4372' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.117' tp='3274' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_004-1a.3' tp='230' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg17-1' tp='709' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-001b.10' tp='247' tcount='17'/>
@@ -410,7 +411,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.143' tp='3287' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#noid.0' tp='4972' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-8a.127' tp='4292' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.121' tp='3284' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_004-1a.6' tp='241' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg17-4' tp='724' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002a.01' tp='262' tcount='17'/>
@@ -430,7 +431,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.155' tp='3304' tcount='8' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.5' tp='4989' tcount='8'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-8a.133' tp='4309' tcount='8'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='8'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.129' tp='3301' tcount='10' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_004-1a.10' tp='258' tcount='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg17-8' tp='741' tcount='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002a.02' tp='279' tcount='9' diff='1'/>
@@ -470,7 +471,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.160' tp='3312' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.44' tp='4861' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-9a.7' tp='4325' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.133' tp='3311' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_005-1a.3' tp='269' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not18-11' tp='798' tcount='187' diff='170'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002a.04' tp='293' tcount='17'/>
@@ -490,7 +491,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.166' tp='3329' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.46' tp='4868' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-9a.11' tp='4342' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.141' tp='3327' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_005-1a.6' tp='286' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not20-2' tp='1104' tcount='18' diff='1'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002a.05' tp='310' tcount='17'/>
@@ -510,7 +511,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.179' tp='3346' tcount='12' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.48' tp='4885' tcount='11'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-9a.18' tp='4359' tcount='11'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='11'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.149' tp='3344' tcount='12' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_005-1a.10' tp='303' tcount='11'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg20-4' tp='1122' tcount='63' diff='52'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002a.06' tp='327' tcount='11'/>
@@ -530,7 +531,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.185' tp='3358' tcount='8'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.58' tp='4896' tcount='8'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-9a.22' tp='4370' tcount='8'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='8'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.155' tp='3356' tcount='8'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_006-1a.3-h' tp='314' tcount='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not22-1' tp='1185' tcount='56' diff='48'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002a.07' tp='338' tcount='8'/>
@@ -550,7 +551,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.185' tp='3358' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.62' tp='4904' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-9a.26' tp='4378' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.155' tp='3356' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_006-1a.3' tp='317' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg22-1' tp='1249' tcount='16' diff='1'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002a.08' tp='343' tcount='16' diff='1'/>
@@ -570,7 +571,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.197' tp='3375' tcount='10' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.68' tp='4921' tcount='9'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-9a.34' tp='4395' tcount='9'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='9'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.163' tp='3373' tcount='9'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_006-1a.7' tp='333' tcount='9'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg22-5' tp='1265' tcount='9'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002a.09' tp='359' tcount='9'/>
@@ -590,7 +591,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.201' tp='3385' tcount='8'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.72' tp='4930' tcount='8'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-9a.38' tp='4404' tcount='8'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='8'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.167' tp='3384' tcount='8'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_007-1a.3-h' tp='342' tcount='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not23-1' tp='1274' tcount='46' diff='38'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002a.10' tp='368' tcount='8'/>
@@ -610,7 +611,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.201' tp='3385' tcount='18' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.76' tp='4938' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-9a.40' tp='4412' tcount='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.167' tp='3384' tcount='18' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_007-1a.3' tp='345' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg23-1' tp='1395' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002b.01' tp='373' tcount='17'/>
@@ -630,7 +631,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.210' tp='3403' tcount='18' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.40' tp='4855' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_CHANT_001-8a.129' tp='4297' tcount='3' diff='14'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.175' tp='3402' tcount='18' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_007-1a.6' tp='362' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not24-1' tp='1412' tcount='30' diff='13'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002b.02' tp='390' tcount='17'/>
@@ -650,7 +651,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.216' tp='3421' tcount='15'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.48' tp='4872' tcount='15'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='15'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='15'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.181' tp='3419' tcount='21' diff='6'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_007-1a.9' tp='379' tcount='15'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg24-3' tp='1442' tcount='15'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002b.03' tp='407' tcount='15'/>
@@ -690,7 +691,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.225' tp='3436' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.62' tp='4904' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.189' tp='3440' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_008-1a.3' tp='397' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg25-1' tp='1476' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002b.05' tp='427' tcount='17'/>
@@ -710,7 +711,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.231' tp='3452' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.68' tp='4921' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.195' tp='3457' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_008-1a.7' tp='414' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not26-1' tp='1493' tcount='21' diff='4'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002b.06' tp='444' tcount='16' diff='1'/>
@@ -730,7 +731,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.240' tp='3466' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.76' tp='4938' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.207' tp='3474' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_008-1a.12' tp='430' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg27-5' tp='1521' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002b.07' tp='460' tcount='17'/>
@@ -750,7 +751,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.250' tp='3484' tcount='8'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.80' tp='4956' tcount='8'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='8'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='8'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.217' tp='3492' tcount='8'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_009-1a.3-h' tp='448' tcount='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='8' diff='7'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002b.08' tp='478' tcount='8'/>
@@ -770,7 +771,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.250' tp='3483' tcount='19' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.86' tp='4964' tcount='21'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='21'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='21'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.217' tp='3491' tcount='21'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_009-1a.3' tp='450' tcount='19' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg28-1' tp='1546' tcount='21'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002b.09' tp='482' tcount='19' diff='2'/>
@@ -790,7 +791,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.261' tp='3493' tcount='18' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.3' tp='4985' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.223' tp='3502' tcount='18' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_009-1a.6' tp='462' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg29-2' tp='1593' tcount='41' diff='24'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002b.09' tp='494' tcount='17'/>
@@ -810,7 +811,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='11' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.9' tp='5002' tcount='12'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='12'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='12'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='11' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_009-1a.10' tp='479' tcount='10' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg31-2' tp='1634' tcount='15' diff='6'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-002b.10' tp='511' tcount='12' diff='1'/>
@@ -830,7 +831,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.279' tp='3521' tcount='8'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.15' tp='5014' tcount='8'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='8'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='8'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.237' tp='3531' tcount='8'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_010-1a.3-h' tp='489' tcount='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not33-1' tp='1649' tcount='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003a.02' tp='523' tcount='8'/>
@@ -850,7 +851,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.279' tp='3522' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.20' tp='5022' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.237' tp='3532' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_010-1a.3' tp='492' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg33-1' tp='1658' tcount='56' diff='40'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003a.03' tp='528' tcount='17'/>
@@ -870,7 +871,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.290' tp='3538' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.28' tp='5039' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.247' tp='3547' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_010-1a.8' tp='508' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not35-1' tp='1714' tcount='117' diff='100'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003a.04' tp='545' tcount='17'/>
@@ -890,7 +891,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.303' tp='3555' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.38' tp='5056' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.255' tp='3565' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_010-1a.12' tp='524' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not37-9' tp='1831' tcount='85' diff='68'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003a.05' tp='561' tcount='17'/>
@@ -910,7 +911,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.315' tp='3572' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.46' tp='5073' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.263' tp='3582' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_010-1a.16' tp='540' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not39-1' tp='1915' tcount='61' diff='44'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003a.05' tp='577' tcount='17'/>
@@ -930,7 +931,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.328' tp='3585' tcount='4'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.55' tp='5090' tcount='4'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='4'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='4'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.271' tp='3595' tcount='4'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_010-1a.20' tp='557' tcount='4'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg41-4' tp='1976' tcount='4'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003a.06' tp='594' tcount='4'/>
@@ -950,7 +951,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.331' tp='3589' tcount='8'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.55' tp='5094' tcount='8'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='8'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='8'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.273' tp='3600' tcount='8'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_011-1a.3-h' tp='561' tcount='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not42-1' tp='1980' tcount='22' diff='14'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003a.08' tp='598' tcount='8'/>
@@ -970,7 +971,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.338' tp='3597' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.61' tp='5102' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.277' tp='3608' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_011-1a.3' tp='565' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg42-1' tp='2036' tcount='43' diff='26'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003a.09' tp='604' tcount='17'/>
@@ -990,7 +991,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.344' tp='3605' tcount='15' diff='3'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.67' tp='5119' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.283' tp='3616' tcount='14' diff='3'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_011-1a.8' tp='582' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg43-2' tp='2079' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003a.10' tp='621' tcount='17'/>
@@ -1010,7 +1011,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='13' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.79' tp='5136' tcount='15'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='15'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='15'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='13' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_011-1a.12' tp='599' tcount='15'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg43-6' tp='2096' tcount='15'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003b.01' tp='638' tcount='15'/>
@@ -1050,7 +1051,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.361' tp='3637' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.91' tp='5160' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.297' tp='3648' tcount='6' diff='11'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_012-1a.3' tp='618' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg44-1' tp='2143' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003b.03' tp='659' tcount='17'/>
@@ -1070,7 +1071,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.363' tp='3642' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.97' tp='5177' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.299' tp='3653' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_012-1a.6' tp='635' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg44-4' tp='2160' tcount='56' diff='39'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003b.04' tp='676' tcount='17'/>
@@ -1090,7 +1091,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.369' tp='3659' tcount='15'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.108' tp='5194' tcount='15'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='15'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='15'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.303' tp='3671' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_012-1a.10' tp='652' tcount='15'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not46-1' tp='2216' tcount='29' diff='14'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003b.05' tp='693' tcount='14' diff='1'/>
@@ -1110,7 +1111,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.381' tp='3690' tcount='9'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.116' tp='5209' tcount='9'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='9'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='9'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.314' tp='3703' tcount='9'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_013-1a.3-h' tp='670' tcount='9'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not47-1' tp='2245' tcount='9'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003b.06' tp='707' tcount='9'/>
@@ -1130,7 +1131,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.381' tp='3690' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.121' tp='5218' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.314' tp='3703' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_013-1a.3' tp='674' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg47-1' tp='2266' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003b.07' tp='713' tcount='15' diff='2'/>
@@ -1150,7 +1151,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.389' tp='3708' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.131' tp='5235' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.322' tp='3722' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_013-1a.6' tp='691' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg47-5' tp='2283' tcount='49' diff='32'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003b.07' tp='728' tcount='17'/>
@@ -1170,7 +1171,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.398' tp='3725' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.142' tp='5252' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.328' tp='3739' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_013-1a.9' tp='708' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg48-1' tp='2332' tcount='21' diff='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003b.08' tp='745' tcount='17'/>
@@ -1190,7 +1191,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.404' tp='3743' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.150' tp='5269' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.336' tp='3757' tcount='15' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_013-1a.12' tp='726' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg50-1' tp='2392' tcount='21' diff='5'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003b.09' tp='762' tcount='16' diff='1'/>
@@ -1210,7 +1211,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.411' tp='3758' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.162' tp='5286' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.342' tp='3772' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_013-1a.15' tp='741' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg51-3' tp='2412' tcount='51' diff='34'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-003b.10' tp='777' tcount='17'/>
@@ -1230,7 +1231,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.415' tp='3773' tcount='2' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.172' tp='5303' tcount='3'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='3'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='3'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.347' tp='3788' tcount='3'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_014-1a.5' tp='768' tcount='3'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not53-3' tp='2462' tcount='3'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004a.03' tp='804' tcount='3'/>
@@ -1270,7 +1271,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.417' tp='3775' tcount='26' diff='19'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.179' tp='5315' tcount='11' diff='6'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.349' tp='3791' tcount='26' diff='19'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_014-1a.3' tp='760' tcount='19' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg53-1' tp='2485' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004a.03' tp='798' tcount='17'/>
@@ -1290,7 +1291,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='12' diff='5'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='12' diff='5'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_014-1a.8' tp='782' tcount='18' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg53-3' tp='2502' tcount='57' diff='40'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004a.04' tp='815' tcount='17' diff='1'/>
@@ -1310,7 +1311,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.439' tp='3814' tcount='18' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.370' tp='3829' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_014-1a.12' tp='800' tcount='15' diff='3'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg54-1' tp='2559' tcount='14' diff='3'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004a.05' tp='831' tcount='14' diff='3'/>
@@ -1330,7 +1331,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.445' tp='3829' tcount='27' diff='10'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.376' tp='3845' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_014-1a.15' tp='815' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg54-4' tp='2573' tcount='46' diff='29'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004a.05' tp='846' tcount='21' diff='4'/>
@@ -1350,7 +1351,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.462' tp='3856' tcount='11' diff='6'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.382' tp='3862' tcount='11' diff='6'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_014-1a.18' tp='832' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg55-1' tp='2619' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004a.07' tp='867' tcount='17'/>
@@ -1370,7 +1371,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.466' tp='3863' tcount='15'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='15'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='15'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='15'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.392' tp='3879' tcount='15'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_d' tp='0' tcount='14' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='18' diff='4'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_d' tp='0' tcount='14' diff='1'/>
@@ -1410,7 +1411,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.473' tp='3877' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.398' tp='3893' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_015-1a.3' tp='867' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not58-3' tp='2672' tcount='65' diff='48'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004a.10' tp='904' tcount='17'/>
@@ -1430,7 +1431,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.484' tp='3894' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.404' tp='3909' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_015-1a.6' tp='884' tcount='18' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg58-4' tp='2737' tcount='38' diff='22'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004b.01' tp='921' tcount='14' diff='3'/>
@@ -1450,7 +1451,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.497' tp='3913' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.412' tp='3928' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_015-1a.9' tp='902' tcount='20' diff='3'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg59-1' tp='2775' tcount='56' diff='39'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004b.01' tp='935' tcount='17'/>
@@ -1470,7 +1471,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.507' tp='3932' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.422' tp='3947' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_015-1a.13' tp='924' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg60-4' tp='2832' tcount='33' diff='16'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004b.02' tp='952' tcount='17'/>
@@ -1490,7 +1491,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.518' tp='3944' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.428' tp='3959' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_015-1a.15' tp='939' tcount='15' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg61-1' tp='2863' tcount='56' diff='40'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004b.03' tp='967' tcount='16' diff='1'/>
@@ -1510,7 +1511,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.524' tp='3956' tcount='13'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='13'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='13'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='13'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.435' tp='3972' tcount='8' diff='5'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_015-1a.18' tp='954' tcount='13'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg62-1' tp='2919' tcount='17' diff='4'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004b.04' tp='983' tcount='13'/>
@@ -1530,7 +1531,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.535' tp='3970' tcount='9'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='9'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='9'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='9'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.439' tp='3980' tcount='9'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_016-1a.3-h' tp='967' tcount='9'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not64-2' tp='2935' tcount='9'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004b.06' tp='995' tcount='9'/>
@@ -1550,7 +1551,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.539' tp='3979' tcount='20' diff='3'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.443' tp='3989' tcount='19' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_016-1a.3' tp='971' tcount='19' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not65-1' tp='2946' tcount='22' diff='5'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004b.07' tp='1001' tcount='19' diff='2'/>
@@ -1570,7 +1571,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.545' tp='3992' tcount='15' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='15'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='15'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='15'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.451' tp='4001' tcount='15' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_016-1a.8' tp='990' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg67-2' tp='3010' tcount='22' diff='7'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004b.08' tp='1020' tcount='16' diff='1'/>
@@ -1590,7 +1591,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.557' tp='4007' tcount='18' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.461' tp='4016' tcount='18' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_016-1a.12' tp='1007' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not69-1' tp='3032' tcount='126' diff='109'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004b.09' tp='1036' tcount='17'/>
@@ -1610,7 +1611,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.573' tp='4026' tcount='16'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='16'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='16'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='16'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.477' tp='4035' tcount='16'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_016-1a.17' tp='1024' tcount='16'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg72-1' tp='3158' tcount='30' diff='14'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-004b.10' tp='1053' tcount='16'/>
@@ -1630,7 +1631,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.584' tp='4042' tcount='9'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='9'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='9'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='9'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.489' tp='4051' tcount='9'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_017-1a.3-h' tp='1040' tcount='9'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not77-1' tp='3233' tcount='9'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005a.01' tp='1069' tcount='8' diff='1'/>
@@ -1650,7 +1651,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.584' tp='4042' tcount='14' diff='3'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.489' tp='4051' tcount='14' diff='3'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_017-1a.3' tp='1044' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg77-1' tp='3274' tcount='87' diff='70'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005a.02' tp='1075' tcount='15' diff='2'/>
@@ -1670,7 +1671,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.590' tp='4056' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.497' tp='4065' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_017-1a.6' tp='1059' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not80-1' tp='3359' tcount='30' diff='13'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_d' tp='0' tcount='12' diff='5'/>
@@ -1690,7 +1691,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.599' tp='4072' tcount='13'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='13'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='13'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='13'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.505' tp='4081' tcount='13'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_d' tp='0' tcount='13' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='12' diff='1'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_d' tp='0' tcount='12' diff='1'/>
@@ -1710,7 +1711,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.605' tp='4085' tcount='9'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='9'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='9'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='9'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.511' tp='4094' tcount='9'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_018-1a.3-h' tp='1089' tcount='9'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not83-1' tp='3467' tcount='51' diff='42'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005a.05' tp='1113' tcount='9'/>
@@ -1730,7 +1731,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.605' tp='4086' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.511' tp='4095' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_018-1a.3' tp='1093' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg83-1' tp='3536' tcount='30' diff='15'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005a.06' tp='1119' tcount='15' diff='2'/>
@@ -1750,7 +1751,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.617' tp='4103' tcount='11' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='11'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='11'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='11'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.522' tp='4112' tcount='11' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_018-1a.8' tp='1110' tcount='12' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg85-2' tp='3591' tcount='11'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005a.06' tp='1134' tcount='11'/>
@@ -1770,7 +1771,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.623' tp='4115' tcount='9'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='9'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='9'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='9'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.528' tp='4124' tcount='9'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_019-1a.3-h' tp='1123' tcount='9'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not86-1' tp='3602' tcount='9'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005a.08' tp='1145' tcount='9'/>
@@ -1790,7 +1791,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.627' tp='4124' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.532' tp='4133' tcount='19' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_019-1a.3' tp='1127' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg86-1' tp='3660' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005a.09' tp='1151' tcount='17'/>
@@ -1810,7 +1811,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.633' tp='4132' tcount='15' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.538' tp='4142' tcount='15' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_019-1a.7' tp='1144' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg86-5' tp='3677' tcount='16' diff='1'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005a.10' tp='1168' tcount='16' diff='1'/>
@@ -1830,7 +1831,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.641' tp='4148' tcount='14' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='13'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='13'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='13'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.546' tp='4158' tcount='15' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_019-1a.11' tp='1159' tcount='14' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg86-8' tp='3692' tcount='13'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005a.10' tp='1183' tcount='13'/>
@@ -1850,7 +1851,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.650' tp='4162' tcount='9'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='9'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='9'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='9'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.552' tp='4173' tcount='9'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_020-1a.3-h' tp='1173' tcount='9'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not87-1' tp='3705' tcount='9'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005b.02' tp='1196' tcount='9'/>
@@ -1870,7 +1871,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.650' tp='4162' tcount='16' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.552' tp='4173' tcount='15' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_020-1a.3' tp='1177' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg87-1' tp='3766' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005b.03' tp='1202' tcount='17'/>
@@ -1890,7 +1891,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.659' tp='4179' tcount='19' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.560' tp='4190' tcount='19' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_020-1a.7' tp='1194' tcount='17' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg87-5' tp='3783' tcount='77' diff='60'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005b.04' tp='1219' tcount='18' diff='1'/>
@@ -1910,7 +1911,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.672' tp='4198' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.570' tp='4210' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_020-1a.12' tp='1218' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg89-1' tp='3921' tcount='43' diff='26'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005b.05' tp='1237' tcount='16' diff='1'/>
@@ -1930,7 +1931,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.680' tp='4215' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.578' tp='4227' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_020-1a.16' tp='1235' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg90-2' tp='3964' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005b.06' tp='1254' tcount='17'/>
@@ -1950,7 +1951,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.689' tp='4227' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.582' tp='4239' tcount='13' diff='4'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_020-1a.18' tp='1249' tcount='18' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg92-1' tp='4004' tcount='76' diff='59'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005b.06' tp='1268' tcount='17'/>
@@ -1970,7 +1971,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.698' tp='4243' tcount='19'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='19'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='19'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='19'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.588' tp='4253' tcount='19'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_d' tp='0' tcount='14' diff='6'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='25' diff='12'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005b.07' tp='1285' tcount='18' diff='1'/>
@@ -1990,7 +1991,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.709' tp='4255' tcount='21'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='21'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='21'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='21'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.594' tp='4265' tcount='21'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_020-1a.25' tp='1281' tcount='21'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not97-1' tp='4105' tcount='21'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005b.08' tp='1298' tcount='24' diff='3'/>
@@ -2010,7 +2011,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.714' tp='4264' tcount='18' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.598' tp='4276' tcount='18' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_020-1a.27' tp='1292' tcount='18' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg98-1' tp='4124' tcount='45' diff='28'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-005b.09' tp='1306' tcount='17'/>
@@ -2030,7 +2031,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='8' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='9'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='9'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='9'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='8' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_d' tp='0' tcount='8' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not102-6' tp='4203' tcount='5' diff='4'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_d' tp='0' tcount='10' diff='2'/>
@@ -2070,7 +2071,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.728' tp='4291' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.610' tp='4303' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_021-1a.3' tp='1325' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg102-1' tp='4208' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006a.02' tp='1340' tcount='17'/>
@@ -2090,7 +2091,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.736' tp='4307' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.618' tp='4319' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_021-1a.7' tp='1342' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg104-1' tp='4249' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006a.03' tp='1357' tcount='10' diff='8'/>
@@ -2110,7 +2111,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.747' tp='4323' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.626' tp='4336' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_021-1a.11' tp='1359' tcount='18' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg105-1' tp='4303' tcount='85' diff='68'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_d' tp='0' tcount='17' diff='2'/>
@@ -2130,7 +2131,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.759' tp='4340' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.636' tp='4354' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_021-1a.16' tp='1376' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg107-2' tp='4388' tcount='31' diff='14'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006a.04' tp='1388' tcount='16' diff='1'/>
@@ -2150,7 +2151,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.765' tp='4354' tcount='2' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='3'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='3'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='3'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.643' tp='4371' tcount='3'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_021-1a.19' tp='1393' tcount='3'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg109-2' tp='4455' tcount='3'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006a.05' tp='1405' tcount='3'/>
@@ -2170,7 +2171,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.767' tp='4357' tcount='10'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='10'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.645' tp='4374' tcount='10'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_022-1a.3-h' tp='1395' tcount='9' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not110-1' tp='4458' tcount='26' diff='16'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006a.06' tp='1410' tcount='10'/>
@@ -2190,7 +2191,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.793' tp='4397' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.665' tp='4416' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_022-1a.3' tp='1401' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg110-1' tp='4481' tcount='33' diff='16'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006a.07' tp='1415' tcount='17'/>
@@ -2210,7 +2211,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.805' tp='4414' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.678' tp='4432' tcount='16' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_022-1a.9' tp='1418' tcount='19' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not115-1' tp='4530' tcount='67' diff='50'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006a.08' tp='1432' tcount='18' diff='2'/>
@@ -2230,7 +2231,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.816' tp='4438' tcount='18' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='15' diff='3'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_022-1a.12' tp='1437' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg116-2' tp='4596' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006a.09' tp='1450' tcount='17'/>
@@ -2250,7 +2251,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.822' tp='4450' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.692' tp='4468' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_022-1a.16' tp='1454' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg116-6' tp='4613' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006a.10' tp='1467' tcount='17'/>
@@ -2270,7 +2271,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.827' tp='4464' tcount='10'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='10'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.694' tp='4482' tcount='9' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_022-1a.19' tp='1471' tcount='9' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg116-8' tp='4630' tcount='9' diff='1'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006b.01' tp='1484' tcount='9' diff='1'/>
@@ -2290,7 +2291,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.831' tp='4471' tcount='10'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='10'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.698' tp='4489' tcount='10'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_023-1a.3-h' tp='1479' tcount='9' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg117-1' tp='4639' tcount='10'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006b.02' tp='1495' tcount='10'/>
@@ -2310,7 +2311,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.831' tp='4471' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.698' tp='4489' tcount='15' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_023-1a.3' tp='1485' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg117-1' tp='4639' tcount='64' diff='47'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006b.03' tp='1500' tcount='16' diff='1'/>
@@ -2330,7 +2331,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_023-1a.7' tp='1502' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg118-3' tp='4703' tcount='24' diff='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006b.04' tp='1516' tcount='16' diff='1'/>
@@ -2350,7 +2351,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.849' tp='4500' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.714' tp='4517' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_023-1a.11' tp='1518' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg119-1' tp='4727' tcount='56' diff='39'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006b.04' tp='1532' tcount='17'/>
@@ -2370,7 +2371,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.851' tp='4510' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.716' tp='4527' tcount='18' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_023-1a.13' tp='1530' tcount='18' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not121-7' tp='4815' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006b.05' tp='1544' tcount='18' diff='1'/>
@@ -2390,7 +2391,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.860' tp='4522' tcount='19' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.722' tp='4540' tcount='19' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_023-1a.15' tp='1543' tcount='25' diff='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not122-3' tp='4828' tcount='50' diff='33'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006b.06' tp='1557' tcount='19' diff='2'/>
@@ -2410,7 +2411,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.866' tp='4535' tcount='7'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='7'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='7'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='7'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.728' tp='4553' tcount='7'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_023-1a.18' tp='1565' tcount='7'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg123-1' tp='4886' tcount='7'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006b.07' tp='1576' tcount='6' diff='1'/>
@@ -2430,7 +2431,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.870' tp='4542' tcount='10'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='10'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.732' tp='4560' tcount='10'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_024-1a.3-h' tp='1572' tcount='10'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not124-1' tp='4893' tcount='10'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006b.08' tp='1584' tcount='10'/>
@@ -2450,7 +2451,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.876' tp='4552' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.738' tp='4570' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_024-1a.3' tp='1578' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not125-3' tp='4917' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006b.09' tp='1589' tcount='17'/>
@@ -2470,7 +2471,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.882' tp='4569' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.744' tp='4587' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_024-1a.7' tp='1595' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg125-4' tp='4934' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-006b.10' tp='1606' tcount='17'/>
@@ -2490,7 +2491,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.900' tp='4586' tcount='14'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='14'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='14'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='14'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.756' tp='4604' tcount='14'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_024-1a.10' tp='1612' tcount='13' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg125-7' tp='4951' tcount='13' diff='1'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007a.01' tp='1623' tcount='14'/>
@@ -2510,7 +2511,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.872' tp='4545' tcount='10'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='10'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.734' tp='4563' tcount='10'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_025-1a.3-h' tp='1624' tcount='9' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='0' diff='10'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007a.02' tp='1638' tcount='10'/>
@@ -2530,7 +2531,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.878' tp='4555' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.738' tp='4573' tcount='18' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_025-1a.3' tp='1630' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg127-1' tp='5002' tcount='74' diff='58'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007a.03' tp='1643' tcount='17'/>
@@ -2550,7 +2551,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='11' diff='6'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='12' diff='5'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_025-1a.7' tp='1647' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg129-1' tp='5076' tcount='40' diff='23'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007a.04' tp='1660' tcount='16' diff='1'/>
@@ -2570,7 +2571,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.880' tp='4560' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.742' tp='4580' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_025-1a.10' tp='1662' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg131-1' tp='5134' tcount='37' diff='20'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007a.04' tp='1675' tcount='16' diff='1'/>
@@ -2590,7 +2591,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.890' tp='4578' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.750' tp='4598' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_025-1a.14' tp='1680' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg134-2' tp='5252' tcount='48' diff='31'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007a.05' tp='1692' tcount='17'/>
@@ -2610,7 +2611,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.904' tp='4595' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.762' tp='4615' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_025-1a.20' tp='1698' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not137-2' tp='5336' tcount='96' diff='79'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007a.07' tp='1710' tcount='17'/>
@@ -2630,7 +2631,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.916' tp='4611' tcount='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='0' diff='2'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='2'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='2'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.770' tp='4631' tcount='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_025-1a.24' tp='1715' tcount='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg138-4' tp='5434' tcount='2'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007a.08' tp='1727' tcount='2'/>
@@ -2670,7 +2671,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.922' tp='4613' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_chant_d' tp='0' tcount='7' diff='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.772' tp='4633' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_026-1a.3' tp='1722' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg139-1' tp='5579' tcount='48' diff='31'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007a.10' tp='1736' tcount='17'/>
@@ -2690,7 +2691,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.928' tp='4630' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.64' tp='4916' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.780' tp='4650' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_026-1a.6' tp='1738' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg140-1' tp='5630' tcount='23' diff='7'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007b.01' tp='1752' tcount='16' diff='1'/>
@@ -2710,7 +2711,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.937' tp='4647' tcount='15'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.74' tp='4933' tcount='15'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='15'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='15'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.786' tp='4667' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_026-1a.10' tp='1754' tcount='15'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg142-2' tp='5658' tcount='15'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007b.01' tp='1768' tcount='15'/>
@@ -2750,7 +2751,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.943' tp='4663' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.82' tp='4958' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.792' tp='4683' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_027-1a.3' tp='1774' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg143-1' tp='5691' tcount='34' diff='18'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007b.04' tp='1790' tcount='16' diff='1'/>
@@ -2770,7 +2771,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.952' tp='4680' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#noid.0' tp='4975' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.798' tp='4701' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_027-1a.6' tp='1792' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not146-1' tp='5741' tcount='23' diff='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007b.04' tp='1805' tcount='15' diff='2'/>
@@ -2790,7 +2791,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.957' tp='4697' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.5' tp='4992' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.802' tp='4718' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_027-1a.7' tp='1809' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg146-2' tp='5764' tcount='132' diff='116'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007b.05' tp='1820' tcount='16' diff='1'/>
@@ -2810,7 +2811,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.967' tp='4722' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.13' tp='5009' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.812' tp='4742' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_027-1a.10' tp='1825' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg148-1' tp='5896' tcount='16' diff='1'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007b.06' tp='1836' tcount='15' diff='2'/>
@@ -2830,7 +2831,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.975' tp='4729' tcount='6' diff='11'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.22' tp='5026' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.816' tp='4749' tcount='12' diff='6'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_027-1a.13' tp='1841' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg148-5' tp='5912' tcount='52' diff='35'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007b.07' tp='1851' tcount='16' diff='1'/>
@@ -2850,7 +2851,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.981' tp='4741' tcount='10' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.30' tp='5043' tcount='12'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='12'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='12'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.822' tp='4761' tcount='12' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_027-1a.16' tp='1858' tcount='12'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg150-2' tp='5965' tcount='12'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-007b.08' tp='1867' tcount='12'/>
@@ -2890,7 +2891,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.987' tp='4754' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.40' tp='5065' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.828' tp='4774' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_028-1a.3' tp='1875' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg152-1' tp='5999' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008a.01' tp='1886' tcount='17'/>
@@ -2910,7 +2911,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1001' tp='4774' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.51' tp='5082' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.842' tp='4795' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_028-1a.8' tp='1896' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg152-6' tp='6016' tcount='67' diff='50'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008a.02' tp='1903' tcount='17'/>
@@ -2930,7 +2931,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1009' tp='4790' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.57' tp='5099' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.852' tp='4812' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_028-1a.12' tp='1913' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg154-1' tp='6087' tcount='24' diff='7'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008a.03' tp='1920' tcount='17'/>
@@ -2950,7 +2951,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1024' tp='4806' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.67' tp='5116' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.862' tp='4829' tcount='44' diff='27'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_028-1a.17' tp='1934' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg156-3' tp='6111' tcount='50' diff='33'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008a.04' tp='1937' tcount='17'/>
@@ -2970,7 +2971,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1036' tp='4828' tcount='17' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.77' tp='5133' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.874' tp='4854' tcount='16' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_028-1a.21' tp='1951' tcount='18' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg157-1' tp='6157' tcount='63' diff='46'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008a.05' tp='1954' tcount='76' diff='59'/>
@@ -3010,7 +3011,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1047' tp='4845' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.91' tp='5160' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.882' tp='4870' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_029-1a.3' tp='1974' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg159-1' tp='6234' tcount='16' diff='1'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008b.02' tp='2040' tcount='17'/>
@@ -3030,7 +3031,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1055' tp='4861' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.97' tp='5177' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.890' tp='4886' tcount='17' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_029-1a.5' tp='1989' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg159-3' tp='6249' tcount='37' diff='20'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008b.03' tp='2057' tcount='17'/>
@@ -3050,7 +3051,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1064' tp='4879' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.108' tp='5194' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.898' tp='4906' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_029-1a.9' tp='2006' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg161-1' tp='6331' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008b.04' tp='2074' tcount='16' diff='1'/>
@@ -3070,7 +3071,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1074' tp='4896' tcount='9'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.118' tp='5211' tcount='9'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='9'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='9'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='8' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_029-1a.13' tp='2023' tcount='9'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg161-5' tp='6348' tcount='9'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008b.05' tp='2090' tcount='9'/>
@@ -3090,7 +3091,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1080' tp='4905' tcount='9'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.123' tp='5220' tcount='9'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='9'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='9'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.912' tp='4927' tcount='9'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_030-1a.3-h' tp='2032' tcount='9'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not162-1' tp='6357' tcount='63' diff='54'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008b.06' tp='2099' tcount='9'/>
@@ -3110,7 +3111,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1080' tp='4905' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.127' tp='5229' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.912' tp='4927' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_030-1a.3' tp='2036' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg162-1' tp='6416' tcount='65' diff='48'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008b.07' tp='2108' tcount='17'/>
@@ -3130,7 +3131,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1091' tp='4922' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.138' tp='5246' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.921' tp='4944' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_030-1a.6' tp='2054' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg164-1' tp='6481' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008b.08' tp='2125' tcount='17'/>
@@ -3150,7 +3151,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1095' tp='4930' tcount='21' diff='4'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.148' tp='5263' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.927' tp='4952' tcount='21' diff='4'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_030-1a.10' tp='2070' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg165-1' tp='6526' tcount='36' diff='19'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008b.09' tp='2141' tcount='17'/>
@@ -3170,7 +3171,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1103' tp='4950' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.160' tp='5280' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.936' tp='4972' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_030-1a.13' tp='2085' tcount='18' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg166-2' tp='6566' tcount='22' diff='5'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-008b.10' tp='2158' tcount='17'/>
@@ -3190,7 +3191,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1112' tp='4965' tcount='11'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.170' tp='5297' tcount='11'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='11'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='11'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.942' tp='4986' tcount='11'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_030-1a.17' tp='2103' tcount='11'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg168-1' tp='6633' tcount='11'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009a.01' tp='2175' tcount='11'/>
@@ -3230,7 +3231,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='17' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.181' tp='5317' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='17' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_031-1a.3' tp='2119' tcount='18' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg169-1' tp='6677' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009a.03' tp='2195' tcount='17'/>
@@ -3250,7 +3251,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1128' tp='4994' tcount='17' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.189' tp='5334' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.960' tp='5014' tcount='17' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_d' tp='0' tcount='16' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='15' diff='2'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009a.04' tp='2212' tcount='17'/>
@@ -3270,7 +3271,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='22' diff='8'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.200' tp='5351' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='21' diff='7'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_031-1a.8' tp='2153' tcount='18' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg169-7' tp='6709' tcount='16' diff='1'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009a.05' tp='2229' tcount='17'/>
@@ -3290,7 +3291,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1141' tp='5030' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.208' tp='5368' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.972' tp='5048' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_031-1a.11' tp='2171' tcount='13' diff='4'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg169-10' tp='6725' tcount='13' diff='4'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009a.06' tp='2246' tcount='17'/>
@@ -3310,7 +3311,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1147' tp='5041' tcount='15' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.216' tp='5385' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.978' tp='5059' tcount='15' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_031-1a.14' tp='2184' tcount='17' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='16' diff='2'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009a.07' tp='2263' tcount='17'/>
@@ -3330,7 +3331,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1155' tp='5057' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.224' tp='5402' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.986' tp='5075' tcount='18' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_031-1a.17' tp='2202' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg169-16' tp='6753' tcount='14' diff='3'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009a.08' tp='2280' tcount='17'/>
@@ -3350,7 +3351,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1161' tp='5074' tcount='20' diff='3'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.239' tp='5419' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.994' tp='5093' tcount='20' diff='3'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_031-1a.20' tp='2219' tcount='14' diff='4'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg169-19' tp='6768' tcount='13' diff='4'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009a.09' tp='2297' tcount='17'/>
@@ -3370,7 +3371,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1177' tp='5103' tcount='16'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.68' tp='4922' tcount='16'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='16'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='16'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1010' tp='5123' tcount='16'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_031-1a.23' tp='2233' tcount='14' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg169-22' tp='6781' tcount='13' diff='3'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009a.10' tp='2314' tcount='16'/>
@@ -3390,7 +3391,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1185' tp='5119' tcount='12'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.76' tp='4938' tcount='12'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='12'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='12'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1014' tp='5139' tcount='12'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_032-1a.3-h' tp='2245' tcount='11' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='0' diff='12'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009b.01' tp='2330' tcount='12'/>
@@ -3410,7 +3411,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1191' tp='5131' tcount='18' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.78' tp='4950' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1022' tp='5151' tcount='18' diff='2'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_032-1a.5' tp='2257' tcount='20' diff='4'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg170-1' tp='6794' tcount='19' diff='3'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009b.02' tp='2342' tcount='17'/>
@@ -3430,7 +3431,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1185' tp='5119' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#noid.0' tp='4967' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1014' tp='5139' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_032-1a.7' tp='2271' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg172-3' tp='6813' tcount='130' diff='113'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009b.03' tp='2359' tcount='17'/>
@@ -3450,7 +3451,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1196' tp='5136' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.3' tp='4984' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1025' tp='5156' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_032-1a.9' tp='2288' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg173-3' tp='6943' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009b.04' tp='2376' tcount='17'/>
@@ -3470,7 +3471,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1208' tp='5153' tcount='18' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.9' tp='5001' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1033' tp='5173' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_032-1a.12' tp='2305' tcount='18' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg174-4' tp='6987' tcount='137' diff='120'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009b.05' tp='2393' tcount='17'/>
@@ -3490,7 +3491,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1219' tp='5171' tcount='3'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.18' tp='5018' tcount='3'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='3'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='3'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1038' tp='5191' tcount='3'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_032-1a.14' tp='2323' tcount='3'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not176-8' tp='7124' tcount='3'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009b.06' tp='2410' tcount='3'/>
@@ -3510,7 +3511,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1221' tp='5174' tcount='10'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.20' tp='5021' tcount='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='10'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1040' tp='5194' tcount='10'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_033-1a.3-h' tp='2325' tcount='9' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='0' diff='10'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009b.07' tp='2413' tcount='10'/>
@@ -3530,7 +3531,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1231' tp='5184' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.24' tp='5031' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1048' tp='5204' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_033-1a.3' tp='2331' tcount='14' diff='3'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg177-1' tp='7127' tcount='31' diff='16'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009b.08' tp='2423' tcount='17'/>
@@ -3550,7 +3551,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1236' tp='5191' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.32' tp='5048' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1052' tp='5210' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_033-1a.6' tp='2345' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg178-2' tp='7158' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009b.09' tp='2440' tcount='17'/>
@@ -3570,7 +3571,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1253' tp='5208' tcount='12'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.40' tp='5065' tcount='12'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='12'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='12'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1066' tp='5227' tcount='12'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_033-1a.9' tp='2359' tcount='10' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg181-1' tp='7259' tcount='12'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-009b.10' tp='2457' tcount='12'/>
@@ -3590,7 +3591,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='10'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.49' tp='5077' tcount='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='10'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1076' tp='5239' tcount='10'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_034-1a.3-h' tp='2368' tcount='7' diff='3'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not183-1' tp='7287' tcount='10'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010a.01' tp='2469' tcount='10'/>
@@ -3610,7 +3611,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1261' tp='5218' tcount='26' diff='10'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.53' tp='5087' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1078' tp='5249' tcount='27' diff='10'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_034-1a.3' tp='2374' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg183-1' tp='7315' tcount='40' diff='23'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010a.02' tp='2479' tcount='17'/>
@@ -3630,7 +3631,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1271' tp='5244' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.61' tp='5104' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1083' tp='5264' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_034-1a.7' tp='2390' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg184-2' tp='7354' tcount='16' diff='1'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010a.03' tp='2496' tcount='16' diff='1'/>
@@ -3650,7 +3651,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1271' tp='5247' tcount='17' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.71' tp='5121' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1083' tp='5267' tcount='17' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_034-1a.10' tp='2406' tcount='17' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg184-5' tp='7370' tcount='55' diff='38'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010a.04' tp='2513' tcount='17'/>
@@ -3670,7 +3671,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1282' tp='5264' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.79' tp='5138' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1093' tp='5284' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_d' tp='0' tcount='18' diff='3'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not186-4' tp='7450' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010a.05' tp='2530' tcount='17'/>
@@ -3690,7 +3691,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1287' tp='5280' tcount='5'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_001-17a.66' tp='4918' tcount='241' diff='236'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='5'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='5'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1097' tp='5299' tcount='5'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_034-1a.16' tp='2441' tcount='5'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not187-1' tp='7466' tcount='5'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010a.06' tp='2547' tcount='5'/>
@@ -3710,7 +3711,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1289' tp='5285' tcount='10'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.91' tp='5159' tcount='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='10'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1099' tp='5304' tcount='10'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_035-1a.3-h' tp='2445' tcount='9' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not187-2' tp='7471' tcount='10'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010a.07' tp='2552' tcount='10'/>
@@ -3730,7 +3731,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1289' tp='5284' tcount='16' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.112' tp='5200' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1099' tp='5303' tcount='16' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_035-1a.3' tp='2451' tcount='16' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg187-1' tp='7474' tcount='48' diff='32'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010a.08' tp='2562' tcount='17'/>
@@ -3750,7 +3751,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1302' tp='5300' tcount='20' diff='3'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.121' tp='5217' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1110' tp='5319' tcount='22' diff='5'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_035-1a.8' tp='2467' tcount='18' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg189-2' tp='7540' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010a.09' tp='2579' tcount='17'/>
@@ -3770,7 +3771,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1315' tp='5322' tcount='11' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.131' tp='5234' tcount='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='10'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1122' tp='5341' tcount='11' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_035-1a.12' tp='2486' tcount='10'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg189-6' tp='7557' tcount='10'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010a.10' tp='2596' tcount='10'/>
@@ -3790,7 +3791,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1323' tp='5333' tcount='10'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.138' tp='5244' tcount='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='10'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1130' tp='5352' tcount='10'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_036-1a.3-h' tp='2495' tcount='9' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='79' diff='78'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010b.01' tp='2606' tcount='10'/>
@@ -3810,7 +3811,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1323' tp='5334' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.142' tp='5254' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1130' tp='5353' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_036-1a.3' tp='2501' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg190-1' tp='7646' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010b.02' tp='2616' tcount='17'/>
@@ -3830,7 +3831,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1334' tp='5351' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.150' tp='5271' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1138' tp='5370' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_036-1a.7' tp='2518' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg190-5' tp='7663' tcount='17'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010b.03' tp='2633' tcount='17'/>
@@ -3850,7 +3851,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1342' tp='5368' tcount='17'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.164' tp='5288' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1147' tp='5387' tcount='14' diff='3'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_036-1a.11' tp='2535' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg190-9' tp='7680' tcount='87' diff='70'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010b.04' tp='2650' tcount='17'/>
@@ -3870,7 +3871,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1350' tp='5379' tcount='7' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.174' tp='5305' tcount='8'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='8'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='8'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1153' tp='5399' tcount='8'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_036-1a.14' tp='2549' tcount='8'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg191-3' tp='7764' tcount='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010b.05' tp='2667' tcount='8'/>
@@ -3890,7 +3891,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1352' tp='5387' tcount='10'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.179' tp='5313' tcount='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='10'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1155' tp='5407' tcount='10'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_037-1a.3-h' tp='2556' tcount='9' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not192-1' tp='7772' tcount='10'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010b.06' tp='2675' tcount='10'/>
@@ -3910,7 +3911,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1356' tp='5397' tcount='16' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.185' tp='5323' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1161' tp='5417' tcount='17' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_037-1a.4' tp='2566' tcount='17' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg192-1' tp='7841' tcount='17' diff='1'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010b.07' tp='2685' tcount='17'/>
@@ -3930,7 +3931,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='15' diff='2'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.194' tp='5340' tcount='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1163' tp='5421' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_037-1a.7' tp='2580' tcount='20' diff='3'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg194-3' tp='7874' tcount='37' diff='20'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010b.08' tp='2702' tcount='17'/>
@@ -3950,7 +3951,7 @@
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_CHANT_002-1a.1369' tp='5418' tcount='14' diff='1'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.204' tp='5357' tcount='15'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='15'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='15'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1169' tp='5441' tcount='14' diff='1'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_037-1a.11' tp='2600' tcount='15'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg195-2' tp='7911' tcount='14' diff='1'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010b.09' tp='2719' tcount='15'/>
@@ -3970,7 +3971,7 @@
 <ref ed='CH8x3004_chant' corresp='#noid.0' tp='0' tcount='14'/>
 <ref ed='CH8x3005_chant' corresp='#CH8x3005_CHANT_002-1a.208' tp='5372' tcount='14'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='14'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='14'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1175' tp='5455' tcount='14'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_038-1a.3-h' tp='2614' tcount='14'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='0' diff='14'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_001-010b.10' tp='2734' tcount='14' diff='1'/>
@@ -8538,7 +8539,7 @@
 <ref ed='CH1a0918b_other' corresp='#noid.0' tp='22979' tcount='4' diff='6'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_001-1a.1505' tp='3027' tcount='151' diff='141'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_001-1a.1505' tp='3027' tcount='10'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_080-1a.3-h' tp='5794' tcount='10'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='0' diff='10'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_002-012a.10' tp='5836' tcount='10'/>
@@ -8557,7 +8558,6 @@
 <ref ed='CH1a0918b_other' corresp='#CH1a0918_CHANT_161-1a.3' tp='22983' tcount='62' diff='45'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.70' tp='3173' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_080-1a.3' tp='5798' tcount='15' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg424-1' tp='16821' tcount='56' diff='39'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_002-012b.01' tp='5842' tcount='15' diff='2'/>
@@ -8569,6 +8569,9 @@
 <ref ed='KX5c0073_HFL' corresp='#KX5c0073_HFL_004-011a.06' tp='16928' tcount='58' diff='41'/>
 <ref ed='KX5c0073_ZTDZ' corresp='#KX5c0073_SJB_004-120290b.06' tp='16928' tcount='58' diff='41'/>
 </seg>
+<seg id='KX5c0046_SJB_000-110489a.19' tp='6232' tcount='7'>
+<ref ed='CH8x3007_chant' corresp='#noid.0' tp='3032' tcount='7'/>
+</seg>
 <seg id='KX5c0046_SJB_000-110489a.20' tp='6249' tcount='17'>
 <ref ed='CH1a0918a_chant' corresp='#CH1a0918_CHANT_080-1a.4' tp='5809' tcount='17'/>
 <ref ed='CH1a0918a_other' corresp='#CH1a0918_CHANT_080-1a.4' tp='7017' tcount='19' diff='2'/>
@@ -8576,7 +8579,6 @@
 <ref ed='CH1a0918b_other' corresp='#CH1a0918_CHANT_161-3a.7' tp='23073' tcount='80' diff='63'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.89' tp='3215' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_080-1a.6' tp='5813' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg426-1' tp='16878' tcount='41' diff='24'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_002-012b.01' tp='5857' tcount='17'/>
@@ -8595,7 +8597,6 @@
 <ref ed='CH1a0918b_other' corresp='#CH1a0918_CHANT_161-5a.8' tp='23153' tcount='23' diff='6'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.97' tp='3232' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_080-1a.11' tp='5830' tcount='13' diff='4'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg427-4' tp='16919' tcount='13' diff='4'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_002-012b.02' tp='5874' tcount='13' diff='4'/>
@@ -8614,7 +8615,6 @@
 <ref ed='CH1a0918b_other' corresp='#CH1a0918_CHANT_161-6a.8' tp='23176' tcount='50' diff='33'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.97' tp='3233' tcount='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_d' tp='0' tcount='15' diff='5'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls_d' tp='0' tcount='15' diff='5'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_d' tp='0' tcount='15' diff='5'/>
@@ -8633,7 +8633,6 @@
 <ref ed='CH1a0918b_other' corresp='#CH1a0918_CHANT_161-9a.9' tp='23236' tcount='17' diff='1'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.105' tp='3250' tcount='316' diff='299'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_080-1a.18' tp='5858' tcount='15' diff='2'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg427-11' tp='16947' tcount='15' diff='2'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_002-012b.04' tp='5902' tcount='15' diff='2'/>
@@ -8645,6 +8644,9 @@
 <ref ed='KX5c0073_HFL' corresp='#KX5c0073_HFL_004-011b.03' tp='17056' tcount='15' diff='2'/>
 <ref ed='KX5c0073_ZTDZ' corresp='#KX5c0073_SJB_004-120290b.14' tp='17056' tcount='15' diff='2'/>
 </seg>
+<seg id='KX5c0046_SJB_000-110489b.02' tp='6310' tcount='7'>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='1' diff='6'/>
+</seg>
 <seg id='KX5c0046_SJB_000-110489b.03' tp='6317' tcount='9'>
 <ref ed='CH1a0918a_chant' corresp='#noid.0' tp='5868' tcount='8' diff='1'/>
 <ref ed='CH1a0918a_other' corresp='#noid.0' tp='7087' tcount='8' diff='1'/>
@@ -8652,7 +8654,7 @@
 <ref ed='CH1a0918b_other' corresp='#CH1a0918_CHANT_161-10a.7' tp='23257' tcount='9'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='9'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='9'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.560' tp='4189' tcount='9'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='9'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_081-1a.3-h' tp='5872' tcount='8' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not428-1' tp='16962' tcount='9'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_002-012b.06' tp='5919' tcount='9'/>
@@ -8671,7 +8673,7 @@
 <ref ed='CH1a0918b_other' corresp='#noid.0' tp='23266' tcount='17'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.698' tp='4491' tcount='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_081-1a.3' tp='5878' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg428-1' tp='16966' tcount='25' diff='8'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_002-012b.07' tp='5924' tcount='17'/>
@@ -8690,7 +8692,7 @@
 <ref ed='CH1a0918b_other' corresp='#CH1a0918_CHANT_162-1a.6' tp='23283' tcount='17'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.996' tp='5101' tcount='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_081-1a.7' tp='5895' tcount='17'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg430-3' tp='16991' tcount='33' diff='16'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_002-012b.08' tp='5941' tcount='17'/>
@@ -8709,7 +8711,7 @@
 <ref ed='CH1a0918b_other' corresp='#CH1a0918_CHANT_162-2a.3' tp='23300' tcount='17'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='17'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1033' tp='5172' tcount='17'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='17'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_081-1a.11' tp='5912' tcount='18' diff='1'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.not433-1' tp='17024' tcount='27' diff='10'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_002-012b.09' tp='5958' tcount='17'/>
@@ -8728,7 +8730,7 @@
 <ref ed='CH1a0918b_other' corresp='#CH1a0918_CHANT_162-2a.8' tp='23317' tcount='6'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='6'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='6'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1155' tp='5406' tcount='6'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='6'/>
 <ref ed='KR5c0057_tls' corresp='#KR5c0057_tls_081-1a.13' tp='5930' tcount='6'/>
 <ref ed='KR5c0073_tls' corresp='#KR5c0073_tls.seg435-1' tp='17055' tcount='6'/>
 <ref ed='KX5c0045_HFL' corresp='#KX5c0045_HFL_002-012b.10' tp='5975' tcount='6'/>
@@ -8748,7 +8750,7 @@
 <ref ed='CH1a0918b_other' corresp='#noid.0' tp='23264' tcount='161' diff='151'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='10'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='10'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1157' tp='5412' tcount='10'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='10'/>
 <ref ed='KX5c0046_HFL' corresp='#KX5c0046_HFL_000-023a.08' tp='6383' tcount='10'/>
 <ref ed='KX5c0065_HFL' corresp='#KX5c0065_HFL_004-017a.04' tp='20651' tcount='10'/>
 <ref ed='KX5c0065_SBCK' corresp='#KX5c0065_SBCK_003-20b.09' tp='22632' tcount='259' diff='249'/>
@@ -8768,7 +8770,7 @@
 <ref ed='CH1a0918b_other' corresp='#CH1a0918_CHANT_162-5a.8' tp='23422' tcount='17' diff='11'/>
 <ref ed='CH8x3004_chant' corresp='#CH8x3004_chant_d' tp='0' tcount='0' diff='6'/>
 <ref ed='CH8x3006_chant' corresp='#CH8x3006_chant_d' tp='0' tcount='0' diff='6'/>
-<ref ed='CH8x3007_chant' corresp='#CH8x3007_CHANT_002-1a.1163' tp='5422' tcount='6'/>
+<ref ed='CH8x3007_chant' corresp='#CH8x3007_chant_d' tp='0' tcount='0' diff='6'/>
 <ref ed='KX5c0046_HFL' corresp='#KX5c0046_HFL_000-023a.10' tp='6393' tcount='6'/>
 <ref ed='KX5c0065_HFL' corresp='#KX5c0065_HFL_004-017a.08' tp='20677' tcount='7' diff='1'/>
 <ref ed='KX5c0065_ZTDZ' corresp='#KX5c0065_SJB_004-120023b.08' tp='20687' tcount='7' diff='1'/>
