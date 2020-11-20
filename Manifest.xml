@@ -1,7 +1,45 @@
 <?xml version='1.0' encoding='utf-8'?>
-<manifest xmlns="http://kanripo.org/ns/KRX/Manifest/1.0">
+<manifest xmlns="http://kanripo.org/ns/KRX/Manifest/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
 	<description/>
 	<editions>
+		<editionGroup type="root">
+		<edition id="KX5c0045_master" format="xml/TEI" location="int/KX5c0045_master"
+			type="interpretative" language="lzh">
+			<description>道德真經</description>
+			<tokenmap>
+				<map src="^　　　" tok="h"/>
+			</tokenmap>
+		</edition>
+		<edition id="KX5c0045_HFL" format="xml/TEI" location="doc/KX5c0045_HFL" type="documentary"
+			language="lzh">
+			<description>道德真經(正文)</description>
+		</edition>
+		<edition id="KX5c0045_ZTDZ" format="xml/TEI" location="doc/KX5c0045_ZTDZ" type="documentary"
+			language="lzh">
+			<description>道德真經(正文)</description>
+		</edition>
+		<edition id="CH1a0918a_chant" format="txt/mandoku" location="int/CH1a0918a_chant"
+			type="interpretative" language="lzh">
+			<description>老子</description>
+			<tokenmap>
+				<map src="^[\*]* " tok="h"/>
+			</tokenmap>
+		</edition>
+		<edition id="CH1a0918a_other" format="txt/mandoku" location="int/CH1a0918a_other"
+			type="interpretative" language="lzh">
+			<description>老子</description>
+			<tokenmap>
+				<map src="^[\*]* " tok="h"/>
+			</tokenmap>
+		</edition>
+		<edition id="KR5c0057_tls" format="xml/TEI" location="int/KR5c0057_tls"
+			type="interpretative" language="lzh">
+			<description>老子(TLS)</description>
+			<tokenmap>
+				<map src="tei:head" tok="h"/>
+				<map src="tei:p" tok="p"/>
+			</tokenmap>
+		</edition>
 		<edition id="CH8x3004_chant" format="txt/mandoku" location="doc/CH8x3004_chant"
 			type="documentary" language="lzh">
 			<description>老子甲本</description>
@@ -26,14 +64,8 @@
 				<div sequence="1" label="道經" start="3041" end="5460"/>
 			</divisions>
 		</edition>
-		<edition id="KX5c0045_HFL" format="xml/TEI" location="doc/KX5c0045_HFL" type="documentary"
-			language="lzh">
-			<description>道德真經(正文)</description>
-		</edition>
-		<edition id="KX5c0045_ZTDZ" format="xml/TEI" location="doc/KX5c0045_ZTDZ" type="documentary"
-			language="lzh">
-			<description>道德真經(正文)</description>
-		</edition>
+		</editionGroup>
+		<editionGroup type="annotation">
 		<edition id="KX5c0046_HFL" format="xml/TEI" location="doc/KX5c0046_HFL" type="documentary"
 			language="lzh">
 			<description>道德經古本篇(傅奕校定)</description>
@@ -42,6 +74,8 @@
 			language="lzh">
 			<description>道德經古本篇(傅奕校定)</description>
 		</edition>
+		</editionGroup>
+		<editionGroup type="annotation">
 		<edition id="KX5c0065_HFL" format="xml/TEI" location="doc/KX5c0065_HFL" type="documentary"
 			language="lzh">
 			<description>道德真經(河上公注)</description>
@@ -57,11 +91,32 @@
 		<edition id="CH1a0918b_chant" format="txt/mandoku" location="int/CH1a0918b_chant"
 			type="interpretative" language="lzh">
 			<description>老子(河上公注)</description>
+			<tokenmap>
+				<map src="^[\*]* " tok="h"/>
+				<map src="^.*Ｂ\n" tok="p"/>
+				<map src="^.*Ｃ\n" tok="n"/>
+			</tokenmap>
 		</edition>
 		<edition id="CH1a0918b_other" format="txt/mandoku" location="int/CH1a0918b_other"
 			type="interpretative" language="lzh">
 			<description>老子(河上公注)</description>
+			<tokenmap>
+				<map src="^[\*]* " tok="h"/>
+				<map src="^.*Ｂ\n" tok="p"/>
+				<map src="^.*Ｃ\n" tok="n"/>
+			</tokenmap>
 		</edition>
+		</editionGroup>
+		<editionGroup type="annotation">
+        <edition id="KR5c0073_tls" format="xml/TEI" location="int/KR5c0073_tls"
+                  type="interpretative" language="lzh">
+         <description>道德真經註-魏-王弼</description>
+			<tokenmap>
+				<map src="tei:head" tok="h"/>
+				<map src="tei:s[@type='text']" tok="p"/>
+				<map src="tei:note" tok="n"/>
+			</tokenmap>
+        </edition>
 		<edition id="KX5c0073_HFL" format="xml/TEI" location="doc/KX5c0073_HFL" type="documentary"
 			language="lzh">
 			<description>道德真經(王弼注)</description>
@@ -70,30 +125,13 @@
 			language="lzh">
 			<description>道德真經(王弼注)</description>
 		</edition>
-		<edition id="KR5c0073_tls" format="xml/TEI" location="int/KR5c0073_tls"
-			type="interpretative" language="lzh">
-			<description>道德真經註-魏-王弼</description>
-		</edition>
-		<edition id="CH1a0918a_chant" format="txt/mandoku" location="int/CH1a0918a_chant"
-			type="interpretative" language="lzh">
-			<description>老子</description>
-		</edition>
-		<edition id="CH1a0918a_other" format="txt/mandoku" location="int/CH1a0918a_other"
-			type="interpretative" language="lzh">
-			<description>老子</description>
-		</edition>
-		<edition id="KR5c0057_tls" format="xml/TEI" location="int/KR5c0057_tls"
-			type="interpretative" language="lzh">
-			<description>老子(TLS)</description>
-		</edition>
-		<edition id="KX5c0045_master" format="xml/TEI" location="int/KX5c0045_master"
-			type="interpretative" language="lzh">
-			<description>道德真經</description>
-		</edition>
+		</editionGroup>
+		<editionGroup type="translation">
 		<edition id="tls-en" format="xml/TEI" location="int/tls-en" type="interpretative"
 			language="eng">
 			<description>老子 (en)</description>
 		</edition>
+		</editionGroup>
 	</editions>
 	<divisions>
 		<div label="1 第一章">
