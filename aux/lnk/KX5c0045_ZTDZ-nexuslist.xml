@@ -1,4 +1,4 @@
-<nexusList ed="KX5c0045_ZTDZ" xmlns="http://kanripo.org/ns/KRX/Nexus/1.0">
+<nexusList ed="KX5c0045_ZTDZ" xmlns="http://kanripo.org/ns/KRX/1.0">
 <nexus xml:id='KX5c0045_SJB_001-110474b.03' tp='13' tcount='17'>
 <locationRef ed='CH1a0918a_chant' target='CH1a0918_CHANT_001-1a.2' tp='2' tcount='17'/>
 <locationRef ed='CH1a0918a_other' target='CH1a0918_CHANT_001-1a.2' tp='2' tcount='29'/>
